@@ -20,6 +20,7 @@ python graficar.py
 
 
 .\problema3\problema3.exe 1 10 100 1000 10000 100000
+
 El problema 3 con n = 1000000 ejecuta 83 333 250 000 impresiones y tardó unos 67 minutos
 
 
