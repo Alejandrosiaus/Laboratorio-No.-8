@@ -1,6 +1,9 @@
 Enlace del video: https://youtu.be/3OzrLK4ZL8I
 
 
+Problemas resueltos: 2 (25%), 3 (50%) y 4 (25%).
+
+
 Requisitos:
 
 - gcc (en Windows: MinGW-w64)
